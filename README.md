@@ -2,7 +2,7 @@
 
 강의 PDF 위에 페이지별로 필기하고, 슬라이드를 넘기는 순간에 맞춰 녹음을 나눠 저장하는 웹 노트.
 
-**데모:** https://inforuby2017.github.io/studypdf/
+**데모:** https://qkrwoalsHerb.github.io/studypdf/
 
 ## 해결한 문제
 50분 강의 녹음은 한 덩어리로 남아 "이 슬라이드 설명이 몇 분쯤이었지?"를 찾기 어렵다.
